@@ -5,3 +5,8 @@
  *= require_self
  *= require_tree . 
 */
+p{
+	font-family: Arial;
+	font-size: 18px;
+	color: #FF0000;
+}
